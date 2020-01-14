@@ -25,5 +25,5 @@ choco install -y vlc 7zip ccleaner firefox
 ## Install Game launchers and Chat clients
 
 ```bash
-choco install -y discord origin steam uplay goggalaxy vortex
+choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ```
