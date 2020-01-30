@@ -27,3 +27,7 @@ choco install -y vlc 7zip ccleaner firefox
 ```bash
 choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ```
+
+## Web apps
+
+- [Steam Grid DB](https://www.steamgriddb.com) - add custom banners and logos for your non-steam games.
