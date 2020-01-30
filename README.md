@@ -10,6 +10,11 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 3. Close and reopen Powershell, or open CMD as Admin, instead.
 4. Check it worked with `choco`
 
+**Keep things updated:**
+
+- Keep everything up to date with `choco upgrade all`
+- Lock certain apps to a version with `choco upgrade all --except="'speccy,vlc'"` 
+
 ## Install Dashlane and Authy
 
 ```bash
@@ -19,7 +24,7 @@ choco install -y dashlane authy-desktop
 ## Install Firefox and other Utils
 
 ```bash
-choco install -y vlc 7zip ccleaner firefox
+choco install -y vlc 7zip ccleaner firefox speccy
 ````
 
 ## Install Game launchers and Chat clients
