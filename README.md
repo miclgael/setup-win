@@ -33,6 +33,11 @@ choco install -y vlc 7zip ccleaner firefox speccy
 choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ```
 
+## Extra stuff
+
+- [Xbox (Beta) app](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
+
 ## Web apps
 
 - [Steam Grid DB](https://www.steamgriddb.com) - add custom banners and logos for your non-steam games.
+
