@@ -33,6 +33,11 @@ choco install -y vlc 7zip ccleaner firefox speccy
 choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ```
 
+## Install some dev stuff
+
+- Install the new [Windows Terminal preview](https://github.com/Microsoft/Terminal/releases)
+- Install Windows Subsystem for Linux, enable it, enable Ubuntu (or your favourite flavour) (check Windows App Store)
+
 ## Extra stuff
 
 - [Xbox (Beta) app](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
