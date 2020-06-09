@@ -3,7 +3,7 @@ Set up a fresh Windows 10 install the easy way using Chocolatey (the package man
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
 
-## 🍫 Install [Chocolatey](https://chocolatey.org/install)
+## 🍫 Install [Chocolatey](https://chocolatey.org/install) Package Manager
 
 1. Open **Windows Powershell** as Administrator
 2. Install Chocolatey with the command: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
