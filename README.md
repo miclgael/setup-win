@@ -3,7 +3,7 @@ Set up a fresh Windows 10 install the easy way using Chocolatey (the package man
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
 
-## Install [Chocolatey](https://chocolatey.org/install)
+## 🍫 Install [Chocolatey](https://chocolatey.org/install)
 
 1. Open **Windows Powershell** as Administrator
 2. Install Chocolatey with the command: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
@@ -21,25 +21,25 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 choco version all
 ```
 
-## Install Windows Terminal
+## 👩‍💻 Install Windows Terminal
 
 ```bash
 choco install -y microsoft-windows-terminal 
 ```
 
-## Install Dashlane and Authy
+## 🛡 Install Dashlane and Authy
 
 ```bash
 choco install -y dashlane authy-desktop
 ```
 
-## Install Firefox and other Utils
+## 🦊 Install Firefox and other Utils
 
 ```bash
 choco install -y vlc 7zip ccleaner firefox
 ````
 
-## Install Game launchers and Chat clients
+## 🎮 Install Game launchers and Chat clients
 
 ```bash
 choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
@@ -51,7 +51,8 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 
 ## Extra stuff
 
-- [Xbox (Beta) app](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
+- [Xbox (Beta) app](https://www.microsoft.com/en-au/p/xbox-beta/9mv0b5hzvk9z)
+- [Xbox Accessories app](https://www.microsoft.com/en-au/p/xbox-accessories/9nblggh30xj3)
 
 ## Settings to tweak
 
