@@ -15,6 +15,18 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 - Keep everything up to date with `choco upgrade all`
 - Lock certain apps to a version with `choco upgrade all --except="'speccy,vlc'"` 
 
+**List all installed packages + versions:**
+
+```bash
+choco version all
+```
+
+## Install Windows Terminal
+
+```bash
+choco install -y microsoft-windows-terminal
+```
+
 ## Install Dashlane and Authy
 
 ```bash
@@ -24,7 +36,7 @@ choco install -y dashlane authy-desktop
 ## Install Firefox and other Utils
 
 ```bash
-choco install -y vlc 7zip ccleaner firefox speccy
+choco install -y vlc 7zip ccleaner firefox
 ````
 
 ## Install Game launchers and Chat clients
@@ -35,7 +47,6 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 
 ## Install some dev stuff
 
-- Install the new [Windows Terminal preview](https://github.com/Microsoft/Terminal/releases)
 - Install Windows Subsystem for Linux, enable it, enable Ubuntu (or your favourite flavour) (check Windows App Store)
 
 ## Extra stuff
@@ -45,12 +56,6 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ## Web apps
 
 - [Steam Grid DB](https://www.steamgriddb.com) - add custom banners and logos for your non-steam games.
-
-## List all installed packages + versions
-
-```
-choco version all
-```
 
 Note to self :)
 
