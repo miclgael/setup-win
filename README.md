@@ -45,6 +45,14 @@ choco install -y vlc 7zip ccleaner firefox
 choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ```
 
+## Install graphics drivers
+
+**Team Green:** [NVIDIA Experience](https://www.nvidia.com/Download/index.aspx)
+
+---OR---
+
+**Team Red:** [AMD Adrenaline](https://www.amd.com/en/support)
+
 ## Install some dev stuff
 
 - Install Windows Subsystem for Linux, enable it, enable Ubuntu (or your favourite flavour) (check Windows App Store)
@@ -56,7 +64,8 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 
 ## Settings to tweak
 
-- [Set the background](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/): Right Click Desktop > Personalise > Background
+- **Set the background ([to this](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/) obviously):** Right-Click on Desktop > Personalise > Background 
+- 
 
 ## Web apps
 
