@@ -46,3 +46,31 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 
 - [Steam Grid DB](https://www.steamgriddb.com) - add custom banners and logos for your non-steam games.
 
+## List all installed packages + versions
+
+```
+choco version all
+```
+
+Note to self :)
+
+```
+7zip
+dashlane 
+discord
+epicgameslauncher
+firefox
+FiraCode-ttf
+goggalaxy
+notion
+obs
+obs-studio
+powertoys
+slack
+spotify
+steam
+uplay
+virtualbox
+vlc
+vortex
+```
