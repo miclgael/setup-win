@@ -39,21 +39,34 @@ choco install -y dashlane authy-desktop
 choco install -y vlc 7zip ccleaner firefox
 ````
 
-## 🎮 Install Game launchers and Chat clients
+## 🎮 Install Game launchers
 
 ```bash
-choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
+choco install -y origin steam uplay goggalaxy vortex epicgameslauncher
 ```
 
-## Install graphics drivers
+## 🦜 Install chat clients
 
-**Team Green:** [NVIDIA Experience](https://www.nvidia.com/Download/index.aspx)
+```bash
+choco install -y discord slack
+```
 
----OR---
+## Install other misc. bits
 
-**Team Red:** [AMD Adrenaline](https://www.amd.com/en/support)
+```bash
+choco install -y notion obs obs-studio virtualbox itunes
+```
 
-## Install some dev stuff
+## 📺 Install graphics drivers (Choose one)
+
+- Team Green: [NVIDIA Experience](https://www.nvidia.com/Download/index.aspx)
+- Team Red: [AMD Adrenaline](https://www.amd.com/en/support)
+
+## 🎼 Install Sound drivers
+
+- [Komplete Audio 6](https://www.native-instruments.com/en/support/downloads/drivers-other-files/#kompleteaudio6)
+
+## 🐧 Install some dev stuff
 
 - Install Windows Subsystem for Linux, enable it, enable Ubuntu (or your favourite flavour) (check Windows App Store)
 
@@ -61,38 +74,11 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 
 - [Xbox (Beta) app](https://www.microsoft.com/en-au/p/xbox-beta/9mv0b5hzvk9z)
 - [Xbox Accessories app](https://www.microsoft.com/en-au/p/xbox-accessories/9nblggh30xj3)
-
-## Settings to tweak
-
-- **Set the background ([to this](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/) obviously):** Right-Click on Desktop > Personalise > Background 
-- 
+- Set desktop background [to this](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/) (obvi): `Right-Click on Desktop > Personalise > Background > Picture (Browse)`
+- Install Fira-Code font: `choco install -y FiraCode-ttf`
+- Install Windows PowerToys (Preview): `choco install -y powertoys`
+- [Razer Synapse 3](https://www.razer.com/synapse-3)
 
 ## Web apps
 
 - [Steam Grid DB](https://www.steamgriddb.com) - add custom banners and logos for your non-steam games.
-
-Note to self :)
-
-```
-7zip
-dashlane 
-discord
-epicgameslauncher
-firefox
-FiraCode-ttf
-goggalaxy
-notion
-obs
-obs-studio
-powertoys
-slack
-spotify
-steam
-uplay
-virtualbox
-vlc
-vortex
-```
-
-
-https://www.razer.com/synapse-3
