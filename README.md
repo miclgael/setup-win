@@ -24,7 +24,7 @@ choco version all
 ## Install Windows Terminal
 
 ```bash
-choco install -y microsoft-windows-terminal
+choco install -y microsoft-windows-terminal 
 ```
 
 ## Install Dashlane and Authy
@@ -52,6 +52,10 @@ choco install -y discord origin steam uplay goggalaxy vortex epicgameslauncher
 ## Extra stuff
 
 - [Xbox (Beta) app](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
+
+## Settings to tweak
+
+- [Set the background](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/): Right Click Desktop > Personalise > Background
 
 ## Web apps
 
