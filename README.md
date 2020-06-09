@@ -21,25 +21,25 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 choco version all
 ```
 
-## 👩‍💻 Install Windows Terminal
+## 👩‍💻 Install [Windows Terminal](https://github.com/Microsoft/Terminal)
 
 ```bash
 choco install -y microsoft-windows-terminal 
 ```
 
-## 🛡 Install Dashlane and Authy
+## 🛡 Install [Dashlane](https://www.dashlane.com/) and [Authy 2FA](https://authy.com/)
 
 ```bash
 choco install -y dashlane authy-desktop
 ```
 
-## 🦊 Install Firefox and other Utils
+## 🦊 Install [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ```bash
-choco install -y vlc 7zip ccleaner firefox
+choco install -y firefox
 ````
 
-## 🎮 Install Game launchers
+## 🎮 Install game launchers
 
 ```bash
 choco install -y origin steam uplay goggalaxy vortex epicgameslauncher
@@ -54,7 +54,7 @@ choco install -y discord slack
 ## Install other misc. bits
 
 ```bash
-choco install -y notion obs obs-studio virtualbox itunes
+choco install -y notion obs obs-studio virtualbox itunes vlc 7zip ccleaner 
 ```
 
 ## 📺 Install graphics drivers (Choose one)
@@ -62,24 +62,25 @@ choco install -y notion obs obs-studio virtualbox itunes
 - Team Green: [NVIDIA Experience](https://www.nvidia.com/Download/index.aspx)
 - Team Red: [AMD Adrenaline](https://www.amd.com/en/support)
 
-## 🎼 Install Sound drivers
+## 🎼 Install Sound drivers (Optional)
 
 - [Komplete Audio 6](https://www.native-instruments.com/en/support/downloads/drivers-other-files/#kompleteaudio6)
 
-## 🐧 Install some dev stuff
+## 🐧 Install some dev stuff (Optional)
 
 - Install Windows Subsystem for Linux, enable it, enable Ubuntu (or your favourite flavour) (check Windows App Store)
 
-## Extra stuff
+## Extra stuff (Optional)
 
 - [Xbox (Beta) app](https://www.microsoft.com/en-au/p/xbox-beta/9mv0b5hzvk9z)
 - [Xbox Accessories app](https://www.microsoft.com/en-au/p/xbox-accessories/9nblggh30xj3)
-- Set desktop background [to this](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/) (obvi): `Right-Click on Desktop > Personalise > Background > Picture (Browse)`
 - Install Fira-Code font: `choco install -y FiraCode-ttf`
 - Install Windows PowerToys (Preview): `choco install -y powertoys`
 - [Razer Synapse 3](https://www.razer.com/synapse-3)
 - [Da Vinci Resolve 16 (Sign-up required)](https://www.blackmagicdesign.com/products/davinciresolve/#global-footer)
 - [Ableton Live 10 (Login required)](https://www.ableton.com/en/account/)
+- Set desktop background [to this (obvi)](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/): `Right-Click on Desktop > Personalise > Background > Picture (Browse)`
+- Change Disk Letters (eg, **C:\\**, **E:\\**=WD Green, **G:\\**=Games, **R:\\**=WD Red (RAIDED), **V:\\**=VirtualMachines)
 
 ## Web apps
 
