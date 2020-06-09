@@ -79,3 +79,6 @@ virtualbox
 vlc
 vortex
 ```
+
+
+https://www.razer.com/synapse-3
