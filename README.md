@@ -78,6 +78,8 @@ choco install -y notion obs obs-studio virtualbox itunes
 - Install Fira-Code font: `choco install -y FiraCode-ttf`
 - Install Windows PowerToys (Preview): `choco install -y powertoys`
 - [Razer Synapse 3](https://www.razer.com/synapse-3)
+- [Da Vinci Resolve 16 (Sign-up required)](https://www.blackmagicdesign.com/products/davinciresolve/#global-footer)
+- [Ableton Live 10 (Login required)](https://www.ableton.com/en/account/)
 
 ## Web apps
 
