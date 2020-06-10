@@ -21,6 +21,14 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 choco version all
 ```
 
+# TL;DR - All in one
+
+```bash
+choco install -y microsoft-windows-terminal firefox origin steam uplay goggalaxy vortex epicgameslauncher discord slack notion obs obs-studio virtualbox itunes icloud vlc 7zip ccleaner FiraCode-ttf powertoys dashlane authy-desktop
+```
+
+# Step-by-step
+
 ## 👩‍💻 Install [Windows Terminal](https://github.com/Microsoft/Terminal)
 
 ```bash
@@ -54,7 +62,7 @@ choco install -y discord slack
 ## Install other misc. bits
 
 ```bash
-choco install -y notion obs obs-studio virtualbox itunes vlc 7zip ccleaner 
+choco install -y notion obs obs-studio virtualbox itunes icloud vlc 7zip ccleaner 
 ```
 
 ## 📺 Install graphics drivers (Choose one)
