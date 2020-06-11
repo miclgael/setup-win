@@ -3,6 +3,8 @@ Set up a fresh Windows 10 install the easy way using Chocolatey (the package man
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
 
+> 💡 I also have guides for [Mac](https://github.com/miclgael/setup) and [Linux](https://github.com/miclgael/setup-linux)!
+
 ## 🍫 Install [Chocolatey](https://chocolatey.org/install) Package Manager
 
 1. Open **Windows Powershell** as Administrator
