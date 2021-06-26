@@ -8,7 +8,10 @@ Fork and change it to your favourite apps. Mine will be a fairly minimal gaming 
 ## 🍫 Install [Chocolatey](https://chocolatey.org/install) Package Manager
 
 1. Open **Windows Powershell** as Administrator
-2. Install Chocolatey with the command: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
+2. Install Chocolatey with the command: 
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+```
 3. Close and reopen Powershell, or open CMD as Admin, instead.
 4. Check it worked with `choco`
 
@@ -88,7 +91,6 @@ choco install -y notion obs obs-studio virtualbox itunes icloud vlc 7zip ccleane
 - Install Windows PowerToys (Preview): `choco install -y powertoys`
 - [Razer Synapse 3](https://www.razer.com/synapse-3)
 - [Da Vinci Resolve 16 (Sign-up required)](https://www.blackmagicdesign.com/products/davinciresolve/#global-footer)
-- [Ableton Live 10 (Login required)](https://www.ableton.com/en/account/)
 - Set desktop background [to this (obvi)](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/): `Right-Click on Desktop > Personalise > Background > Picture (Browse)`
 - Change Disk Letters (eg, **C:\\**, **E:\\**=WD Green, **G:\\**=Games, **R:\\**=WD Red (RAIDED), **V:\\**=VirtualMachines)
 
