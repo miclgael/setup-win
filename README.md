@@ -1,5 +1,5 @@
 # setup-win
-Set up a fresh Windows 10 install the easy way using Chocolatey (the package manager... It's like a nerdier Ninite?)
+Set up a fresh Windows 10/11 install the easy way using the Chocolatey package manager.
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
 
@@ -40,10 +40,10 @@ choco install -y microsoft-windows-terminal firefox origin steam uplay goggalaxy
 choco install -y microsoft-windows-terminal 
 ```
 
-## 🛡 Install [Dashlane](https://www.dashlane.com/) and [Authy 2FA](https://authy.com/)
+## 🔐 Install Password manager
 
 ```bash
-choco install -y dashlane authy-desktop
+choco install -y 1password
 ```
 
 ## 🦊 Install [Firefox](https://www.mozilla.org/en-US/firefox/new/)
@@ -67,7 +67,7 @@ choco install -y discord slack
 ## Install other misc. bits
 
 ```bash
-choco install -y notion obs obs-studio virtualbox itunes icloud vlc 7zip ccleaner 
+choco install -y obs obs-studio virtualbox itunes icloud vlc 7zip ccleaner 
 ```
 
 ## 📺 Install graphics drivers (Choose one)
@@ -90,9 +90,10 @@ choco install -y notion obs obs-studio virtualbox itunes icloud vlc 7zip ccleane
 - Install Fira-Code font: `choco install -y FiraCode-ttf`
 - Install Windows PowerToys (Preview): `choco install -y powertoys`
 - [Razer Synapse 3](https://www.razer.com/synapse-3)
-- [Da Vinci Resolve 16 (Sign-up required)](https://www.blackmagicdesign.com/products/davinciresolve/#global-footer)
-- Set desktop background [to this (obvi)](https://uhdwallpapers.org/wallpaper/fallout-76_79856/2560x1440/): `Right-Click on Desktop > Personalise > Background > Picture (Browse)`
+- [Da Vinci Resolve 17 (Sign-up required)](https://www.blackmagicdesign.com/products/davinciresolve/#global-footer)
 - Change Disk Letters (eg, **C:\\**, **E:\\**=WD Green, **G:\\**=Games, **R:\\**=WD Red (RAIDED), **V:\\**=VirtualMachines)
+- DS4 Windows (a must have for PS controller users!)
+- [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/)
 
 ## Web apps
 
