@@ -1,8 +1,8 @@
 # setup-win
 
-> I'm currently workiing on a re-write of these docs
+> WARNING I'm currently working on a re-write of these docs
 
-Set up a fresh Windows 10/11 install the easy way using the Chocolatey package manager.
+Set up a fresh Windows 11 install the easy way using the winget package manager.
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
 
