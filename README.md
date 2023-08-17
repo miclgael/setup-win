@@ -1,4 +1,7 @@
 # setup-win
+
+> I'm currently workiing on a re-write of these docs
+
 Set up a fresh Windows 10/11 install the easy way using the Chocolatey package manager.
 
 Fork and change it to your favourite apps. Mine will be a fairly minimal gaming rig.
@@ -94,6 +97,7 @@ choco install -y obs obs-studio virtualbox itunes icloud vlc 7zip ccleaner
 - Change Disk Letters (eg, **C:\\**, **E:\\**=WD Green, **G:\\**=Games, **R:\\**=WD Red (RAIDED), **V:\\**=VirtualMachines)
 - DS4 Windows (a must have for PS controller users!)
 - [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/)
+- https://answers.microsoft.com/en-us/windows/forum/all/restore-old-right-click-context-menu-in-windows-11/a62e797c-eaf3-411b-aeec-e460e6e5a82a
 
 ## Web apps
 
