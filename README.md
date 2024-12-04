@@ -1,6 +1,9 @@
 # setup-win
 
-> WARNING I'm currently working on a re-write of these docs
+> [!WARNING]
+> **Deprecated**<br>
+> This repo will soon be archived. It will stay accessible but I will no longer be making updates.
+> <br> I am moving to an "All-In-One" setup repo for macOS, Linux, Windows, SteamDeck and Ungoogled Android.
 
 Set up a fresh Windows 11 install the easy way using the winget package manager.
 
